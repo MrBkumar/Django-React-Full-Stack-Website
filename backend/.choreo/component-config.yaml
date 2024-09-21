@@ -1,4 +1,4 @@
-apiVersion: v1
+apiVersion: core.choreo.dev/v1
 kind: ComponentConfig
 endpoints:
   - name: "REST API"
