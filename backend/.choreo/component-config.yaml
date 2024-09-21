@@ -1,5 +1,5 @@
-version: 0.1
-
+apiVersion: 0.1
+kind: ComponentConfig
 endpoints:
   - name: "REST API"
 port: 8000
