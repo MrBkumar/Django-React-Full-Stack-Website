@@ -1,8 +1,8 @@
-apiVersion: core.choreo.dev/v1
+apiVersion: core.choreo.dev/v1beta1
 kind: ComponentConfig
 endpoints:
   - name: "REST API"
-port: 8000
-type: REST
-networkVisibility: Public
-context: /
+    port: 8000
+    type: REST
+    networkVisibility: Public
+    context: /
